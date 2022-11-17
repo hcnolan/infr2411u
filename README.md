@@ -2,7 +2,7 @@
 
 ## Usage
 
-Download [Anki](https://apps.ankiweb.net/#download) spaced repetition software.
+Download [Anki](https://apps.ankiweb.net/#download) spaced repetition software and `networking.apkg` from this repository.
 
 Install the program, then go to File -> Import
 
