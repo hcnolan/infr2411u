@@ -1,5 +1,7 @@
 # Flashcards for Advanced Networking I - INFR 2411U
 
+Current version covers entire course up to Lecture 16
+
 ## Installation
 
 Download [Anki](https://apps.ankiweb.net/#download) spaced repetition software and `networking.apkg` from this repository.
