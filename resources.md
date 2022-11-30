@@ -9,6 +9,7 @@
 
 # 3. OSPF
 
+- [Comparing OSPF with EIGRP [video]](https://www.youtube.com/watch?v=ty37POOCLRw)
 - [Practical OSPF [23 videos]](https://www.youtube.com/playlist?list=PLIFyRwBY_4bSkwy0-im5ERL-_CeBxEdx3)
 - [OSPF Passive Interface [video]](https://www.youtube.com/watch?v=voSnIxwHTio)
 - 
