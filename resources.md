@@ -11,6 +11,7 @@
 - [EIGRP Deep Dive [video]](https://www.youtube.com/watch?v=e5qYqNX6f0k)
 - [EIGRP Explained [video]](https://www.youtube.com/watch?v=QyymlFWDEgM)
 - [EIGRP DUAL [video]](https://www.youtube.com/watch?v=7OCNNwpryPI)
+- [EIGRP Queries and Stuck in Active [video]](https://www.youtube.com/watch?v=KVBmTM-Mu8o)
 
 # 3. OSPF
 
