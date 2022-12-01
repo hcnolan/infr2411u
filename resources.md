@@ -10,7 +10,7 @@
 - [EIGRP Load Balancing [video]](https://www.youtube.com/watch?v=H3Wg-6c_P0U)
 - [EIGRP Deep Dive [video]](https://www.youtube.com/watch?v=e5qYqNX6f0k)
 - [EIGRP Explained [video]](https://www.youtube.com/watch?v=QyymlFWDEgM)
-- 
+- [EIGRP DUAL [video]](https://www.youtube.com/watch?v=7OCNNwpryPI)
 
 # 3. OSPF
 
